@@ -2,7 +2,7 @@ import pytest
 import time
 
 links = [
-    'http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/'
+    'http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/'
 ]
 
 
